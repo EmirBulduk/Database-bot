@@ -1,2 +1,10 @@
-# Database-bot
-A discord bot that is made to store files etc ... 
+# Moniro
+A bot That i made that displays monero it uses discordjs13 and typescript
+
+to start bot write ts-node index.ts
+
+(i write that shit for my self i can understand what to do )
+
+NOTE: go to master 
+
+UPDATE COMİNG SOON 
