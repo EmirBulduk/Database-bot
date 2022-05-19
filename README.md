@@ -1,10 +1,2 @@
-# Moniro
-A bot That i made that displays monero it uses discordjs13 and typescript
-
-to start bot write ts-node index.ts
-
-(i write that shit for my self i can understand what to do )
-
-NOTE: go to master 
-
-UPDATE COMİNG SOON 
+# DATABOT 
+Data bot is a Database Bot Its like back end but manually never mind it stores your data with mysql And All of your datas Are going to be encrypted soon 
